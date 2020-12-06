@@ -1,6 +1,6 @@
 # Robotics-Software-Engineer
 
-![](rviz_screenshot_2020_11_08-22_51_56.png)
+![](https://github.com/nikhilamalajerrin/Localization-of-mobile-robot/blob/master/picture1.JPG)
 
 ## Build Instructions
 1. Make sure you have the following installed:
