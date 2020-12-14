@@ -1,7 +1,7 @@
 # Robotics-Software-Engineer
 
-![](https://github.com/nikhilamalajerrin/Localization-of-mobile-robot/blob/master/picture1.JPG)
-![](https://github.com/nikhilamalajerrin/Localization-of-mobile-robot/blob/master/picture2.JPG)
+![](https://github.com/nikhilamalajerrin/Localization-of-mobile-robot/blob/master/1.JPG)
+![](https://github.com/nikhilamalajerrin/Localization-of-mobile-robot/blob/master/2.JPG)
 ![](https://github.com/nikhilamalajerrin/Localization-of-mobile-robot/blob/master/picture3.JPG)
 
 ## Build Instructions
